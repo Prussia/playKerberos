@@ -3,6 +3,7 @@
 ## API
 ### [JAAS Authentication](http://download.java.net/jdk7u8/docs/technotes/guides/security/jgss/tutorials/AcnOnly.html)
 ### [com.sun.security.auth.module.Krb5LoginModule](http://download.java.net/jdk7u8/docs/jre/api/security/jaas/spec/com/sun/security/auth/module/Krb5LoginModule.html)
+### [kerberos-auth-example](https://github.com/Prussia/kerberos-auth-example)
 
 ### [Httpclient Authentication Helper](https://github.com/DovAmir/httpclientAuthHelper)
 
