@@ -13,3 +13,9 @@
 
 ## Infastructure
 ### [Delegation of Authentication](https://technet.microsoft.com/en-us/library/cc961964.aspx)
+
+## Dockerfile
+
+  Reference
+  
+  https://github.com/sequenceiq/docker-kerberos
