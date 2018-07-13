@@ -11,7 +11,7 @@
 
 ### [How-to: Enable User Authentication and Authorization in Apache HBase](http://blog.cloudera.com/blog/2012/09/understanding-user-authentication-and-authorization-in-apache-hbase/)
 
-### [Installation](https://docs.hortonworks.com/HDPDocuments/Ambari-2.6.2.0/bk_ambari-security/content/kerberos_overview.html)
+## [Installation](https://docs.hortonworks.com/HDPDocuments/Ambari-2.6.2.0/bk_ambari-security/content/kerberos_overview.html)
 
 ## Infastructure
 ### [Delegation of Authentication](https://technet.microsoft.com/en-us/library/cc961964.aspx)
